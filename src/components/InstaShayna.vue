@@ -45,6 +45,6 @@
 
 <script>
 export default {
-  'name' : 'InstaShayna',
+  name : 'InstaShayna',
 }
 </script>

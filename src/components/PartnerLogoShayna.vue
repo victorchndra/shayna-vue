@@ -65,8 +65,8 @@
 import carousel from 'vue-owl-carousel';
 
 export default {
-  'name' : 'PartnerLogoShayna',
-  'components' : {
+  name : 'PartnerLogoShayna',
+  components : {
     carousel
   }
 }

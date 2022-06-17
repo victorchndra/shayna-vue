@@ -60,8 +60,8 @@
   import carousel from 'vue-owl-carousel'
 
   export default {
-    'name': 'HeroShayna',
-    'components' : {
+    name: 'HeroShayna',
+    components : {
       carousel
     }
   }

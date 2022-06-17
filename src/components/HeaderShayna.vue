@@ -90,6 +90,6 @@
 
 <script>
 export default {
-  'name': 'HeaderShayna',
+  name: 'HeaderShayna',
 }
 </script>
